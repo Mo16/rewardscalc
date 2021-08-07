@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/tracker"
-  to = "/"
+  to = "https://fatcakerewards.netlify.app/"
   status = 200
   force = true
