@@ -1,3 +1,5 @@
-From = „/tracker“
-To = „/„
-Forced = true
+[[redirects]]
+  from = "/tracker"
+  to = "/"
+  status = 200
+  force = true
